@@ -4,4 +4,9 @@ Cambio 1
 
 ## Cambio2
 
-$c^{2} = a^{2} + b^{2}$
+
+cambio3 4
+cambio 5
+cambio 6
+
+otro cambio guardado
